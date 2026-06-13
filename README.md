@@ -1,47 +1,48 @@
-#  To-Do List CLI (Python)
+#  To-Do List (Python)
 
-A simple command-line To-Do List application built with Python that helps users manage daily tasks efficiently through a terminal interface.
-
----
-
-##  Problem Statement
-
-Many people need a simple and fast way to manage their daily tasks without using complex apps or web services.  
-This project solves that problem by providing a lightweight CLI-based task manager that runs directly in the terminal.
+A simple Python-based To-Do List application that helps users manage their daily tasks.
 
 ---
 
 ##  Features
 
 - Add new tasks
-- View all tasks
-- Mark tasks as completed
+- View tasks
 - Delete tasks
-- Simple and fast command-line interface
+- Mark tasks as completed
 
 ---
 
 ##  Tech Stack
 
-- Python 3  
-- File handling (for local task storage)  
-- CLI (Command Line Interface)
-
-Python was used because it is simple, fast for development, and ideal for building small automation tools.
+- Python 3
+- File handling (local storage)
 
 ---
 
 ##  How It Works
 
-The application stores tasks locally in a file.  
-Each task has a status (completed / not completed).  
-User interacts with the system through terminal commands to manage tasks.
+The application stores tasks in a local file and allows users to manage them through simple Python execution.
 
 ---
-
 ##  How to Run
 
 `bash
 git clone https://github.com/narjesy/ToDo-List-py
 cd todo-cli
 python main.py
+
+---
+
+## 🚀 Future Improvements
+
+- Add GUI interface
+- Use database (SQLite)
+- Add priority and deadlines
+- Improve structure and modularity
+
+---
+
+## 👨‍💻 About Me
+
+Python developer focused on backend development and cybersecurity fundamentals.
