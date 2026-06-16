@@ -34,7 +34,7 @@ python main.py
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add GUI interface
 - Use database (SQLite)
@@ -43,6 +43,6 @@ python main.py
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Python developer focused on backend development and cybersecurity fundamentals.
